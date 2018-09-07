@@ -1,0 +1,14 @@
+C:\GIT\Other\Sample_Projects\CAPP_Jenk1\CAPP_Jenk1\bin\Debug\CAPP_Jenk1.exe.config
+C:\GIT\Other\Sample_Projects\CAPP_Jenk1\CAPP_Jenk1\bin\Debug\CAPP_Jenk1.exe
+C:\GIT\Other\Sample_Projects\CAPP_Jenk1\CAPP_Jenk1\bin\Debug\CAPP_Jenk1.pdb
+C:\GIT\Other\Sample_Projects\CAPP_Jenk1\CAPP_Jenk1\obj\Debug\CAPP_Jenk1.csprojResolveAssemblyReference.cache
+C:\GIT\Other\Sample_Projects\CAPP_Jenk1\CAPP_Jenk1\obj\Debug\CAPP_Jenk1.csproj.CoreCompileInputs.cache
+C:\GIT\Other\Sample_Projects\CAPP_Jenk1\CAPP_Jenk1\obj\Debug\CAPP_Jenk1.exe
+C:\GIT\Other\Sample_Projects\CAPP_Jenk1\CAPP_Jenk1\obj\Debug\CAPP_Jenk1.pdb
+C:\GIT\Other\Sample_Projects\CAPP_Jenk1\SampleJenkin\CAPP_Jenk1\bin\Debug\CAPP_Jenk1.exe.config
+C:\GIT\Other\Sample_Projects\CAPP_Jenk1\SampleJenkin\CAPP_Jenk1\bin\Debug\CAPP_Jenk1.exe
+C:\GIT\Other\Sample_Projects\CAPP_Jenk1\SampleJenkin\CAPP_Jenk1\bin\Debug\CAPP_Jenk1.pdb
+C:\GIT\Other\Sample_Projects\CAPP_Jenk1\SampleJenkin\CAPP_Jenk1\obj\Debug\CAPP_Jenk1.csprojResolveAssemblyReference.cache
+C:\GIT\Other\Sample_Projects\CAPP_Jenk1\SampleJenkin\CAPP_Jenk1\obj\Debug\CAPP_Jenk1.csproj.CoreCompileInputs.cache
+C:\GIT\Other\Sample_Projects\CAPP_Jenk1\SampleJenkin\CAPP_Jenk1\obj\Debug\CAPP_Jenk1.exe
+C:\GIT\Other\Sample_Projects\CAPP_Jenk1\SampleJenkin\CAPP_Jenk1\obj\Debug\CAPP_Jenk1.pdb
